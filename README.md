@@ -12,6 +12,7 @@
 - 사이트 오른쪽 상단<br>
 <img width="351" height="59" alt="1" src="https://github.com/user-attachments/assets/d4df3ce0-65e2-42db-a635-fa4e7e15cfdf" /><br>
 사이트 오른쪽 상단에는 카테고리가 있다.(이미지참고)<br>
+카테고리에 마우스를 호버하면 색이 변하고 밑줄이 생긴다.<br>
 카테고리의 종류는 아래와 같다.<br>
 1.Men<br>
 2.Women<br>
@@ -32,6 +33,7 @@
 - 상품<br>
 <img width="658" height="502" alt="image" src="https://github.com/user-attachments/assets/bbce37f1-2e18-4f67-a587-243db1fd031f" /><br>
 캐치프라이즈 밑으로는 상품 ui들이 4x2 형태로 나열되어있다.(이미지참고)<br>
+상품 사진에 마우스를 호버하면 사진이 확대된다.<br>
 상품의 목록은 아래와 같다.
 1. 신제품 / 에어 조던 1 로우 SE / 남성신발 / 179,000원
 2. SNKRS에서 출시 예정 / 에어 조던 4 레트로 / 남성 신발 / 269,000원
